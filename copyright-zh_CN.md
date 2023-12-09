@@ -19,7 +19,7 @@
 
 “Microsoft”、Microsoft 徽标、“Microsoft 365”、“Office 365”、“Visual Basic”、“Visual C++”、“Visual Studio”、Visual Studio 徽标、“Windows”、“Windows 10 Team”、Windows 徽标、“Windows Server”、“Windows Vista”和“Windows XP”是 Microsoft Corporation 在美国和其他地区的商标或注册商标。版权所有 (C) Microsoft Corporation。保留所有权利。[点击这里查看 Microsoft Trademark and Brand Guidelines（英文）。](https://go.microsoft.com/fwlink/?linkid=2196228)
 
-“NEEDY GIRL OVERDOSE”/“NEEDY STREAMER OVERLOAD”/“主播女孩重度依赖”： 版权所有 (C) WSS playground。保留所有权利。
+“NEEDY GIRL OVERDOSE”/“NEEDY STREAMER OVERLOAD”/“主播女孩重度依赖”： 版权所有 (C) 株式会社 Why so serious / WSS playground。保留所有权利。
 
 “NVIDIA”、NVIDIA 徽标、“CUDA”、“Game Ready”、“GeForce”、“GeForce Experience”、“GeForce GTX”、“GeForce RTX”、“G-SYNC”、“NVIDIA 3D Vision”、“NVIDIA G-SYNC”、“NVIDIA Quadro”、“NVIDIA RTX”和“PhysX”是 NVIDIA Corporation 在美国和其他地区的商标或注册商标。版权所有 (C) NVIDIA Corporation。保留所有权利。
 
