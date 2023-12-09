@@ -21,7 +21,7 @@ The Alludo word mark and logo/device are trademarks of Cascade Parent Limited. C
 
 "Microsoft", "Microsoft 365", "Office 365", "Visual Basic", "Visual C++", "Visual Studio", the Visual Studio logo, "Windows", "Windows 10 Team", the Windows logo, "Windows Server", "Windows Vista", and "Windows XP" are trademarks and/or registered trademarks of Microsoft Corporation in the United States and/or other countries. Copyright (C) Microsoft Corporation. All rights reserved. [Please click here and check Microsoft's Trademark and Brand Guidelines page for more information](https://go.microsoft.com/fwlink/?linkid=2196228).
 
-"NEEDY GIRL OVERDOSE"/"NEEDY STREAMER OVERLOAD": Copyright (C) WSS playground. All rights reserved.
+"NEEDY GIRL OVERDOSE"/"NEEDY STREAMER OVERLOAD": Copyright (C) Why so serious, Inc. / WSS playground. All rights reserved.
 
 "NVIDIA", the NVIDIA logo, "CUDA", "Game Ready", "GeForce", "GeForce Experience", "GeForce GTX", "GeForce RTX", "G-SYNC", "NVIDIA 3D Vision", "NVIDIA G-SYNC", "NVIDIA Quadro", "NVIDIA RTX" and "PhysX" are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Copyright (C) NVIDIA Corporation. All rights reserved.
 
@@ -29,4 +29,4 @@ The Alludo word mark and logo/device are trademarks of Cascade Parent Limited. C
 
 All other trademarks are the property of their respective owners.
 
-*Revision date: December 4, 2023*
+*Revision date: December 9, 2023*
