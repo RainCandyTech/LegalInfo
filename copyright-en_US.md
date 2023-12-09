@@ -15,7 +15,7 @@ The Alludo word mark and logo/device are trademarks of Cascade Parent Limited. C
 
 "Corel", Corel Logo, Corel Balloon Logo, "CorelDRAW", CorelDRAW Balloon Logo, "Corel PHOTO-PAINT", "FastFlick", "MindManager", "Ulead", "VideoStudio" and "WinZip" are trademarks or registered trademarks of Corel Corporation and/or its subsidiaries in Canada, the United States and/or other countries. Copyright (C) Corel Corporation. All rights reserved. [Please click here and check Corel's Legal information page for more information](https://www.corel.com/en/legal-information/).
 
-"Doki Doki Literature Club" & "Doki Doki Literature Club Plus": Copyright (C) Team Salvato. All rights reserved. [Please click here and check Team Salvato IP Guidelines page for more information](http://teamsalvato.com/ip-guidelines).
+"Doki Doki Literature Club" & "Doki Doki Literature Club Plus": Copyright (C) Team Salvato. All rights reserved. [Please click here and check the Team Salvato IP Guidelines page for more information](http://teamsalvato.com/ip-guidelines).
 
 "MathFlow", "MathType" and "The best thing for writing equations since chalk!" are registered trademarks of Design Science, Inc. Copyright (C) WIRIS America (Design Science, Inc.) All rights reserved. 
 
