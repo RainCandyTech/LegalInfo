@@ -13,6 +13,8 @@ The copyright belongs to its original proprietor. For the original proprietors o
 
 The Alludo word mark and logo/device are trademarks of Cascade Parent Limited. Copyright (C) Cascade Parent Limited trading as Alludo. All rights reserved. [Please click here and check Alludo's Legal information page for more information](https://www.alludo.com/en/legal/).
 
+“App Store”, “Apple”, Apple Logo, “Apple TV”, “Apple Watch”, “Bonjour”, Bonjour logo, ”iCloud”, “iMac”, “iMac Pro”, “iPad”, “iPad Air”, “iPad mini”, “iPadOS”, “iPad Pro”, “iPhone”, “iPod”, “iTunes”, “Mac”, Mac logo, “MacBook”, “MacBook Air”, “MacBook Pro”, “Macintosh”, “Mac mini”, “Mac Pro”, “Mac Studio”, “macOS”, "Metal", Metal Logo, “OS X”, "PowerBook", "Power Mac", "QuickTime", QuickTime logo, "Siri", "Think different", “tvOS”, “visionOS”, “watchOS”, and “Xserve” are trademarks or registered trademarks of Apple Inc., registered in the U.S. and other countries and regions. Copyright (C) Apple Inc. All rights reserved. [Please click here and check Apple's Legal information page for more information](https://www.apple.com/legal/).
+
 "Corel", Corel Logo, Corel Balloon Logo, "CorelDRAW", CorelDRAW Balloon Logo, "Corel PHOTO-PAINT", "FastFlick", "MindManager", "Ulead", "VideoStudio" and "WinZip" are trademarks or registered trademarks of Corel Corporation and/or its subsidiaries in Canada, the United States and/or other countries. Copyright (C) Corel Corporation. All rights reserved. [Please click here and check Corel's Legal information page for more information](https://www.corel.com/en/legal-information/).
 
 "Doki Doki Literature Club" & "Doki Doki Literature Club Plus": Copyright (C) Team Salvato. All rights reserved. [Please click here and check the Team Salvato IP Guidelines page for more information](http://teamsalvato.com/ip-guidelines).
@@ -25,8 +27,10 @@ The Alludo word mark and logo/device are trademarks of Cascade Parent Limited. C
 
 "NVIDIA", the NVIDIA logo, "CUDA", "Game Ready", "GeForce", "GeForce Experience", "GeForce GTX", "GeForce RTX", "G-SYNC", "NVIDIA 3D Vision", "NVIDIA G-SYNC", "NVIDIA Quadro", "NVIDIA RTX" and "PhysX" are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Copyright (C) NVIDIA Corporation. All rights reserved.
 
+“Parallels”, the Parallels logo, and “Coherence”, are trademarks or registered trademarks of Parallels International GmbH. Copyright (C) Parallels International GmbH. All rights reserved.
+
 "WPS", the WPS logo, "WPS+" and "WPS 365" are trademarks or registered trademarks of Kingsoft Corporation. Copyright (C) Kingsoft Corporation. All Rights Reserved.
 
 All other trademarks are the property of their respective owners.
 
-*Revision date: December 9, 2023*
+*Revision date: December 10, 2023*
