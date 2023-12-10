@@ -11,6 +11,8 @@
 
 “Alludo” 文字和 Alludo 徽标是 Cascade Parent Limited 的注册商标。版权所有 (C) 以 Alludo 为商业名称的 Cascade Parent Limited。保留所有权利。[点击这里查看 Alludo 法律信息页面（繁体中文）。](https://www.alludo.com/tw/legal/)
 
+“App Store”、“Apple”、Apple徽标、“Apple TV”、“Apple Watch”、“Bonjour”、“Bonjour”、 “iCloud”、“iMac”、“iMac Pro”、“iPad”、“iPad Air”、“iPad mini”、“iPadOS”、“iPad Pro”、“iPhone”、“iPod”、“iTunes”、“Mac”、Mac 徽标、“MacBook”、“MacBook Air”、“MacBook Pro”、“Macintosh”、“Mac mini”、“Mac Pro”、“Mac Studio”、“macOS”、“Metal”、Metal 徽标、“OS X”、“PowerBook”、“Power Mac”、“QuickTime”、QuickTime 徽标、“Siri”、“Think different”、“tvOS”、“visionOS”、“watchOS”和“Xserve”是 Apple Inc. 在美国和其他地区注册的商标或注册商标。版权所有 （C） Apple Inc. 保留所有权利。[点击这里查看 Apple 法律信息页面。](https://www.apple.com.cn/legal/)
+
 “Corel”、Corel 徽标、Corel 气球徽标、“CorelDRAW”、CorelDRAW 气球徽标、“Corel PHOTO-PAINT”、“FastFlick”、“MindManager”、“Ulead”、“VideoStudio”、“WinZip”、“影音快手”和“会声会影”是 Corel Corporation 和/或其子公司在加拿大、美国和其他地区的商标或注册商标。版权所有 (C) Corel Corporation。保留所有权利。[点击这里查看 Corel Corporation 的法律信息页面（英文）。](https://www.corel.com/en/legal-information/)
 
 “Doki Doki Literature Club”和“Doki Doki Literature Club Plus”：版权所有 (C) Team Salvato。保留所有权利。[点击这里查看 Team Salvato IP Guidelines（英文）。](http://teamsalvato.com/ip-guidelines)
@@ -23,8 +25,10 @@
 
 “NVIDIA”、NVIDIA 徽标、“CUDA”、“Game Ready”、“GeForce”、“GeForce Experience”、“GeForce GTX”、“GeForce RTX”、“G-SYNC”、“NVIDIA 3D Vision”、“NVIDIA G-SYNC”、“NVIDIA Quadro”、“NVIDIA RTX”和“PhysX”是 NVIDIA Corporation 在美国和其他地区的商标或注册商标。版权所有 (C) NVIDIA Corporation。保留所有权利。
 
+“Parallels”、Parallels 徽标和“融合”（Coherence）均为 Parallels International GmbH 的商标或注册商标。版权所有 (C) Parallels International GmbH.保留所有权利。
+
 “WPS”、WPS 徽标、“WPS+” 和 “WPS 365”是北京金山办公软件股份有限公司的商标或注册商标。版权所有 (C) 北京金山办公软件股份有限公司、珠海金山办公软件有限公司、武汉金山办公软件有限公司、安徽金山办公软件有限公司、广州金山移动科技有限公司。保留所有权利。
 
 所有其他商标均为其各自所有者的财产。
 
-*修订时间：2023/12/09*
+*修订时间：2023/12/10*
