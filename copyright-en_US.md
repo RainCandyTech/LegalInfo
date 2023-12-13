@@ -9,6 +9,8 @@ We allow you to share our software projects for the purposes listed above, if ou
 
 All files of our software research projects are provided for free, and we have never used them for any profit-making activities. However, some distributors or distribution platforms of our software research projects may offer paid items that can help you obtain our software projects more easily. RainCandy Technology does **NOT** receive any financial income from these paid items.
 
+Sometimes we allow viewers to contribute their own software projects. In this case, RainCandy Technology is only responsible for the hosting of the content. We do not charge any fees to contributors or provide them with financial benefits. We also do not receive any financial benefits from the sponsorship associated with these contributors.
+
 The copyright belongs to its original proprietor. For the original proprietors or resellers of the software in our research projects, if you want to remove infringing contents related to you of our projects, please check the [Copyright Takedown Policy](https://github.com/RainCandyTech/LegalInfo/blob/main/copyright_takedown-en_US.md) page to get more information.
 
 The Alludo word mark and logo/device are trademarks of Cascade Parent Limited. Copyright (C) Cascade Parent Limited trading as Alludo. All rights reserved. [Please click here and check Alludo's Legal information page for more information](https://www.alludo.com/en/legal/).
@@ -33,4 +35,4 @@ The Alludo word mark and logo/device are trademarks of Cascade Parent Limited. C
 
 All other trademarks are the property of their respective owners.
 
-*Revision date: December 10, 2023*
+*Revision date: December 13, 2023*
