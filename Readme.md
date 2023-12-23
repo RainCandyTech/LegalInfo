@@ -3,7 +3,9 @@
 
 [版权声明](https://github.com/RainCandyTech/legalinfo/blob/main/copyright-zh_CN.md)</br>
 [侵权信息处理办法](https://github.com/RainCandyTech/legalinfo/blob/main/copyright_takedown-zh_CN.md)</br>
-[在线服务隐私政策](https://github.com/RainCandyTech/legalinfo/blob/main/privacy_policy-zh_CN.md)
+[在线服务隐私政策](https://github.com/RainCandyTech/legalinfo/blob/main/privacy_policy-zh_CN.md)<br>
+[沟通讨论行为准则](https://github.com/RainCandyTech/LegalInfo/blob/main/code_of_conduct-zh-CN.md)
+
 # English
 This page provides legal informations about RainCandy Technology.<br>
 In the event any conflicts arises out of the two language versions, the Chinese version shall prevail.
