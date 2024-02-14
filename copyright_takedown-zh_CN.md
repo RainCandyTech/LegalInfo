@@ -1,7 +1,7 @@
 # 雨糖科技侵权信息处理办法
 
 本“办法”适用于以下站点：
-- 雨糖科技网站 ( http://www.miraclenet.xyz 和 http://raincandy.1337.moe/ )
+- 雨糖科技网站 ( http://raincandy.tech/ 和 http://raincandy.1337.moe/ )
 - 雨糖科技管理的 Microsoft 365 服务和 WPS 365 服务（如有）
 - 雨糖科技 GitHub 组织账户（[https://github.com/RainCandyTech](https://github.com/RainCandyTech)）
 - 雨糖科技在其它网站的账户
@@ -17,4 +17,4 @@
 
 一般情况下，我们会在 48 小时内处理完毕。但由于各种因素，比如邮件可能会被邮件服务提供商拦截等等，实际的处理时长也有可能会更长。如果在发送申请 72 小时以后仍未收到我们的回执，请尝试向我们再次发送邮件。
 
-*修订时间：2023/11/26*
+*修订时间：2024/02/14*
