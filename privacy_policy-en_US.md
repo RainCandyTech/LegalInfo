@@ -1,5 +1,5 @@
 # RainCandy Technology Online Services Privacy Policy
-Unless specifically mentioned, the following privacy policy applies only to the RainCandy Technology website (https://www.miraclenet.xyz/ & http://raincandy.1337.moe/).
+Unless specifically mentioned, the following privacy policy applies only to the RainCandy Technology website (http://raincandy.tech/ & http://raincandy.1337.moe/).
 
 ## About English Translation
 This policy is prepared both in Chinese and English version, and in the event any conflicts arises out of the two versions, the Chinese version shall prevail.
@@ -54,4 +54,4 @@ When you use Kingsoft Office Enterpise Services managed by us (such as WPS 365 a
 ## About other software projects of this site
 For other software projects provided by this site, the original developer/publisher of the software may collect informations like your IP address, computer hardware info and operating system version, which may contain sensitive personal information. Please contact the developer or publisher of the software for more information.
 
-*Revision date: November 26, 2023*
+*Revision date: February 14, 2024*
